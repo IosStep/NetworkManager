@@ -7,54 +7,6 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "E062A191-95CF-4D41-972D-0E7D869AB1B6"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "NetworkShowCase/ViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "51"
-            endingLineNumber = "51"
-            landmarkName = "buttonTapped()"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "E062A191-95CF-4D41-972D-0E7D869AB1B6 - 5750f89c5c387297"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (NetworkShowCase.Joke) -&gt; () in NetworkShowCase.ViewController.buttonTapped() -&gt; ()"
-                  moduleName = "NetworkShowCase"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/a.atpv/Documents/Programming/IOS/NetworkShowCase/NetworkShowCase/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "49"
-                  endingLineNumber = "49"
-                  offsetFromSymbolStart = "212">
-               </Location>
-               <Location
-                  uuid = "E062A191-95CF-4D41-972D-0E7D869AB1B6 - 5750f89c5c387297"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (NetworkShowCase.Joke) -&gt; () in NetworkShowCase.ViewController.buttonTapped() -&gt; ()"
-                  moduleName = "NetworkShowCase"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/a.atpv/Documents/Programming/IOS/NetworkShowCase/NetworkShowCase/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "49"
-                  endingLineNumber = "49"
-                  offsetFromSymbolStart = "92">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
             uuid = "28BB8BC8-26F8-44DA-B907-116FE4C16CCD"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
@@ -62,8 +14,8 @@
             filePath = "NetworkShowCase/NetworkManager.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "29"
-            endingLineNumber = "29"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
             landmarkName = "getJoke(completion:)"
             landmarkType = "7">
             <Locations>
@@ -97,68 +49,20 @@
                   endingLineNumber = "23"
                   offsetFromSymbolStart = "704">
                </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "1D20F4F1-CC9D-4FEA-869A-76C0B010BB6E"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "NetworkShowCase/ViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "49"
-            endingLineNumber = "49"
-            landmarkName = "buttonTapped()"
-            landmarkType = "7">
-            <Locations>
                <Location
-                  uuid = "1D20F4F1-CC9D-4FEA-869A-76C0B010BB6E - bb2770b816ea9633"
+                  uuid = "28BB8BC8-26F8-44DA-B907-116FE4C16CCD - 36738901136bb5e5"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "NetworkShowCase.ViewController.buttonTapped() -&gt; ()"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in NetworkShowCase.NetworkManager.getJoke(completion: (Swift.Optional&lt;NetworkShowCase.Joke&gt;) -&gt; ()) -&gt; ()"
                   moduleName = "NetworkShowCase"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/a.atpv/Documents/Programming/IOS/NetworkShowCase/NetworkShowCase/ViewController.swift"
+                  urlString = "file:///Users/a.atpv/Documents/Programming/IOS/NetworkShowCase/NetworkShowCase/NetworkManager.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "47"
-                  endingLineNumber = "47"
-                  offsetFromSymbolStart = "212">
-               </Location>
-               <Location
-                  uuid = "1D20F4F1-CC9D-4FEA-869A-76C0B010BB6E - 5750f89c5c3872b6"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (NetworkShowCase.Joke) -&gt; () in NetworkShowCase.ViewController.buttonTapped() -&gt; ()"
-                  moduleName = "NetworkShowCase"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/a.atpv/Documents/Programming/IOS/NetworkShowCase/NetworkShowCase/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "48"
-                  endingLineNumber = "48"
-                  offsetFromSymbolStart = "68">
-               </Location>
-               <Location
-                  uuid = "1D20F4F1-CC9D-4FEA-869A-76C0B010BB6E - bb2770b816ea9633"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "NetworkShowCase.ViewController.buttonTapped() -&gt; ()"
-                  moduleName = "NetworkShowCase"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/a.atpv/Documents/Programming/IOS/NetworkShowCase/NetworkShowCase/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "47"
-                  endingLineNumber = "47"
-                  offsetFromSymbolStart = "88">
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "804">
                </Location>
             </Locations>
          </BreakpointContent>
